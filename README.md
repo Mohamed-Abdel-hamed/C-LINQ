@@ -25,7 +25,7 @@ LINQ (Language Integrated Query) is a powerful feature in C# that allows develop
 ### 1. Filtering Queries
 These queries allow you to specify criteria to include only certain elements from the data source.
 - **Where**: Filters a sequence of values based on a predicate.
-- <a href="https://github.com/Mohamed-Abdel-hamed/Filtering-Queries-in-LINQ.git">Where Examples</a>
+- <a href="https://github.com/Mohamed-Abdel-hamed/Filtering-Queries-in-LINQ/tree/master">Where Examples</a>
 
 ### 2. Projection Queries
 These queries transform the elements of a collection into a new form.
