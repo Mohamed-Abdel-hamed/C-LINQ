@@ -76,7 +76,14 @@ These queries determine whether any or all elements in a sequence satisfy a spec
 - **Any**: Determines whether any elements in a sequence satisfy a condition.
 - **All**: Determines whether all elements in a sequence satisfy a condition.
 
-### 10. Additional Queries
+### 10. Partitioning Queries
+These queries split a sequence into two parts based on a specified condition.
+- **Take**: Returns a specified number of contiguous elements from the start of a sequence.
+- **Skip**: Bypasses a specified number of elements in a sequence and returns the remaining elements.
+- **TakeWhile**: Returns elements from a sequence as long as a specified condition is true.
+- **SkipWhile**: Bypasses elements in a sequence as long as a specified condition is true and then returns the remaining elements.
+
+### 11. Additional Queries
 Other queries can perform various operations.
 - **ToList**: Converts a sequence to a List.
 - **ToArray**: Converts a sequence to an array.
