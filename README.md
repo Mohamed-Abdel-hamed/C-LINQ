@@ -31,6 +31,7 @@ These queries allow you to specify criteria to include only certain elements fro
 These queries transform the elements of a collection into a new form.
 - **Select**: Projects each element of a sequence into a new form.
 - **SelectMany**: Flattens a sequence of collections into a single collection.
+- <a href="https://github.com/Mohamed-Abdel-hamed/Projection-Queries-in-LINQ.git">Projection Examples</a>
 
 ### 3. Ordering Queries
 These queries sort the elements in a specific order.
